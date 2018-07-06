@@ -34,9 +34,10 @@
 
  **Response Params**
 
-| Param Name  | Type | Desc                                |
-| :------ | :--- | ------------------------------------ |
-| groupid | int  | |
+| Param Name | Type   | Desc |
+| :--------- | :----- | ---- |
+| result     | bool   |      |
+| error      | string |      |
 
  **Note**
 
